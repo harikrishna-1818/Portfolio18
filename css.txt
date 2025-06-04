@@ -1,1 +1,87 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  border: 4px solid #fff;
+}
+
+a {
+  color: #cbd5e1;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+a:hover {
+  color: #facc15;
+}
+
+section {
+  padding: 40px 0;
+}
+
+h2 {
+  color: #1e3a8a;
+}
+
+.projects img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills li {
+  margin: 8px 0;
+}
+
+.resume-button {
+  display: inline-block;
+  background-color: #1e3a8a;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.resume-button:hover {
+  background-color: #3742fa;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1e3a8a;
+  color: white;
+}
 
