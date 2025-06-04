@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hari Krishna Padala | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="images/profile.jpg" alt="Hari Krishna Padala" class="profile-pic">
+      <h1>Hari Krishna Padala</h1>
+      <p>Electronics & Communication Engineer | Developer | DevOps Enthusiast</p>
+      <a href="mailto:harikrishnapadala1818@gmail.com">harikrishnapadala1818@gmail.com</a> |
+      <a href="tel:8639205233">+91 8639205233</a> |
+      <a href="https://linkedin.com/in/hari-krishna-padala-1b128a336" target="_blank">LinkedIn</a>
+    </div>
+  </header>
+
+  <section class="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        A recent graduate in ECE from ANITS with experience in Java, C++, Python, and DevOps tools. Interested in IoT, automation, and building smart systems with real-time data and ML.
+      </p>
+    </div>
+  </section>
+
+  <section class="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <img src="images/flood_project.jpg" alt="Flood Prevention Project">
+        <h3>Smart Reservoir Flood Monitoring</h3>
+        <p>ESP32, XGBoost ML, sensors (DHT11, Rainfall, Ultrasonic), GSM, and Blynk for real-time alerts and automatic gate control.</p>
+      </div>
+      <div class="project">
+        <img src="images/traffic_lights.jpg" alt="Traffic Lights Project">
+        <h3>Traffic Lights using IC555</h3>
+        <p>Built a time-based traffic light system using IC555 timers for red, yellow, and green intervals.</p>
+      </div>
+      <div class="project">
+        <img src="images/heat_sense.jpg" alt="Heat Sense Project">
+        <h3>Heat Sense: Adaptive Cooling System</h3>
+        <p>Used sensor data to adjust power adapter cooling dynamically and extend lifespan using predictive logic.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <ul>
+        <li>Languages: Java, C++, Python</li>
+        <li>Web: HTML, CSS, JavaScript, React</li>
+        <li>DevOps: Git, Jenkins, Docker, Nexus, Tomcat, Linux, AWS EC2</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="resume">
+    <div class="container">
+      <h2>Resume</h2>
+      <a href="HARI-KRISHNA-PADALA-FlowCV-Resume-20250530.pdf" download class="resume-button">Download My Resume</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Hari Krishna Padala. All rights reserved.</p>
+  </footer>
+</body>
+</html>
 
